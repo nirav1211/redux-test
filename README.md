@@ -1,3 +1,9 @@
+Just clone and hit npm start
+This project consist of 
+-CRUD operations using redux in react app
+-along with same name validation
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
